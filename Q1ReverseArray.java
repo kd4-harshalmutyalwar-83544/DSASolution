@@ -1,4 +1,4 @@
-public class ReverseArray
+public class Q1ReverseArray
 {
 
     public static void ReverseArray(int arr[])
