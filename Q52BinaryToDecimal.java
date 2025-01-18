@@ -20,7 +20,7 @@ public class Q52BinaryToDecimal
         division = division*2;
     }
 
-    System.out.print("decimal equivalent of " + n + " is :"+ decimal);
+    System.out.print("decimal equivalent is:"+ decimal);
     }
 
 }
